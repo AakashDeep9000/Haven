@@ -1,0 +1,100 @@
+/*body{
+	background: green;
+	}*/
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+	body{
+		font-family: sans-serif;
+	}
+	h1{
+		color: #993300;
+		padding: 10px;
+		font-family: Adamina;
+	}
+	nav li{
+		display: inline;
+		padding: 10px;
+
+	}
+	nav ul{
+		margin: 1.5em 0;
+		text-align: right;
+	}
+
+	a{
+		color: #59b300;
+		text-decoration: none;
+	}
+
+	a:hover{
+		color: black;	
+	}
+
+	.wrap {
+		margin: auto;
+		padding-top: 15%;
+	}
+
+	header{
+		background: #ffcc99;
+		max-height: 22%;
+		position: fixed;
+		width: 100%;
+		top: 0;
+		overflow: hidden;
+	}
+/*.main{
+	background: red;
+	}*/
+/*.next{
+	background: blue;
+	}*/
+
+/*.sub{
+	background: #99ff33;
+	}*/
+
+	aside img{
+		padding: 10px;
+		width: 260px;
+		height: 250px;
+		margin: auto;
+	}
+  /* .hero{
+	background: blue;
+	} */
+	.hero img{
+		padding: 10px;
+		width: 1245px;
+		height: 400px;
+	}
+	.hero blockquote{
+		text-align: center;
+		color: #80ff00;
+		font-size: 60px;
+	}
+	.camp img{
+		width: 350px;
+		height: 300px;
+		margin: 25px 0px 100px 0px;
+
+	}
+	footer{
+		padding-bottom: 30px;
+		background: #ffcc99;
+	}
+	footer i{
+		float:right;
+		padding: 10px;
+	}
+
+	footer .copy,.terms{
+		font-size: small;
+	}
+	.email{
+		text-align: right;
+		padding: 10px 10px 0px 10px;
+	}
+	.copy{
+		padding-top: 50px;
+	}
